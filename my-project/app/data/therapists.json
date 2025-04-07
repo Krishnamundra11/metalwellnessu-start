@@ -1,0 +1,91 @@
+[
+    {
+      "id": 1,
+      "name": "Dr. Sarah Anderson",
+      "specialty": "Clinical Psychologist",
+      "rating": 4.9,
+      "reviews": 124,
+      "image": "https://i.imgur.com/QZuGC10.png",
+      "badge": "Expert",
+      "categories": ["Anxiety", "Depression", "Relationship Issues"],
+      "experience": "10 years",
+      "description": "Specialized in cognitive behavioral therapy with a focus on anxiety and depression management.",
+      "fee": 1200,
+      "availability": [
+        {
+          "day": "MON",
+          "slots": ["09:00 AM", "10:30 AM", "02:00 PM", "03:30 PM"]
+        },
+        {
+          "day": "TUE",
+          "slots": ["10:00 AM", "11:30 AM", "01:00 PM", "04:30 PM"]
+        },
+        {
+          "day": "WED",
+          "slots": ["09:00 AM", "10:30 AM", "02:00 PM", "03:30 PM"]
+        },
+        {
+          "day": "THU",
+          "slots": ["10:00 AM", "11:30 AM", "01:00 PM", "04:30 PM"]
+        },
+        {
+          "day": "FRI",
+          "slots": ["09:00 AM", "10:30 AM", "02:00 PM", "03:30 PM"]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Dr. Michael Chen",
+      "specialty": "Psychiatrist",
+      "rating": 4.8,
+      "reviews": 98,
+      "image": "https://i.imgur.com/oJTxm6Y.png",
+      "badge": null,
+      "categories": ["Anxiety", "ADHD", "Depression"],
+      "experience": "8 years",
+      "description": "Experienced in medication management and therapy for various mental health conditions.",
+      "fee": 1500,
+      "availability": [
+        {
+          "day": "MON",
+          "slots": ["01:00 PM", "02:30 PM", "04:00 PM"]
+        },
+        {
+          "day": "WED",
+          "slots": ["09:00 AM", "10:30 AM", "01:00 PM", "02:30 PM"]
+        },
+        {
+          "day": "FRI",
+          "slots": ["09:00 AM", "10:30 AM", "01:00 PM", "02:30 PM"]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Dr. Jenife Johnson",
+      "specialty": "Clinical Psychologist",
+      "rating": 4.7,
+      "reviews": 112,
+      "image": "https://i.imgur.com/Qkp78FY.png",
+      "badge": "Expert",
+      "categories": ["Trauma", "Anxiety", "Depression"],
+      "experience": "12 years",
+      "description": "Specializes in trauma-focused therapy and anxiety management techniques.",
+      "fee": 1350,
+      "availability": [
+        {
+          "day": "TUE",
+          "slots": ["09:00 AM", "10:30 AM", "02:00 PM", "03:30 PM"]
+        },
+        {
+          "day": "THU",
+          "slots": ["09:00 AM", "10:30 AM", "02:00 PM", "03:30 PM"]
+        },
+        {
+          "day": "FRI",
+          "slots": ["01:00 PM", "02:30 PM", "04:00 PM"]
+        }
+      ]
+    }
+  ]
